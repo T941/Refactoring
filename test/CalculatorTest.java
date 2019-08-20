@@ -8,7 +8,7 @@ class CalculatorTest {
     @Test
     @DisplayName("Testing addition")
     void testCalculateAdd() {
-        int a = 1;
+        int  = 1;
         int b = 1;
         char o = '+';
         int expected = 2;
